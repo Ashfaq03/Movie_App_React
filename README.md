@@ -11,7 +11,9 @@ Visit the app: [Live on GitHub Pages](https://ashfaq03.github.io/Movie_App_React
 ### Features
 
 - Search for movies by title with real-time results
-- View detailed info: poster, release year, rating, plot summary
+- View detailed info: poster, release year
+- Add to favorites using like button
+- favorites movies stored in local storage and can be accessed in favorites page
 - Responsive design for desktop and mobile devices
 - Clean and modern UI with intuitive navigation
 - Optimized for quick loading and error handling
