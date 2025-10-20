@@ -4,13 +4,13 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        <Link to="/">Movie App</Link>
+        <Link to="/Movie_App_React/">Movie App</Link>
       </div>
       <div className="navbar-links">
-        <Link to="/" className="nav-link">
+        <Link to="/Movie_App_React/" className="nav-link">
           Home
         </Link>
-        <Link to="/favorites" className="nav-link">
+        <Link to="/Movie_App_React/favorites" className="nav-link">
           Favorites
         </Link>
       </div>
